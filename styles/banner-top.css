@@ -1,0 +1,9 @@
+.banner{
+	min-height: 400px;
+	min-width: 1000px;
+	background: url(../assets/sl-iphone-14-promax.jpg.webp);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	margin-top: 10px;
+}
